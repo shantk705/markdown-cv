@@ -1,4 +1,4 @@
-![my picture](https://github.com/shantk705/markdown-cv/blob/master/pic-shant)
+![my picture](https://github.com/shantk705/markdown-cv/blob/master/pic-shant.png)
 # Shant Kelkhacherian    
 ### 18-10-2001
 ### Beirut,Lebanon
