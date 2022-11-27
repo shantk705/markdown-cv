@@ -23,7 +23,7 @@
   <br>
  * Technical Baccalaureate-Accounting and IT
   <br>
-   ETSTC-lb(2016-2019)
+    ETSTC-lb(2016-2019)
 
    <br>
    <br>
